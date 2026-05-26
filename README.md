@@ -1,4 +1,4 @@
-# DecodeLabs Data Science Internship — Week 3 Project
+# Week 3 Project
 
 ## Project Overview
 This repository contains the Week 3 DecodeLabs Data Science Internship submission. The goal is to build a classification model that predicts the `target` label using customer demographic, transaction, and regional features.
@@ -63,3 +63,17 @@ jupyter notebook notebooks/week3_project.ipynb
 ## Notes
 - The notebook saves cleaned data to `data/processed_data.csv`.
 - The model training and evaluation are reproducible using the notebook.
+
+##Author
+**Name**: Abdul Raheem Tariq
+**GitHub**: [abdulraheemtariq12-hash](https://github.com/abdulraheemtariq12-hash)
+**Project Repository**: [DecodeLabs-DataScience-Internship-P3](https://github.com/abdulraheemtariq12-hash/DecodeLabs-DataScience-Internship-P3)
+
+## 📄 License
+
+This project is for educational purposes as part of a data science internship program.
+
+---
+
+**⭐ If you found this analysis helpful, please give it a star on GitHub!**
+
