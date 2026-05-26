@@ -1,4 +1,4 @@
-# Week 3 Project
+# 📊 Week 3 — Data Science Internship Project (DecodeLabs)
 
 ## Project Overview
 This repository contains the Week 3 DecodeLabs Data Science Internship submission. The goal is to build a classification model that predicts the `target` label using customer demographic, transaction, and regional features.
